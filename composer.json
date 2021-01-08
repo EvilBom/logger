@@ -1,0 +1,19 @@
+{
+    "name": "bom/logger",
+    "description": "homeTask5",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bom",
+            "email": "bom.alex.gal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bom\\library\\": "library"
+        }
+    }
+}
