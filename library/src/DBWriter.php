@@ -4,7 +4,10 @@
 namespace Bom\library\src;
 
 
-class DBWriter
+class DBWriter implements WriterInterface
 {
-
+    public function write($message)
+    {
+        // TODO: Implement write() method.
+    }
 }

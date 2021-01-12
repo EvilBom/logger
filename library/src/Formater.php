@@ -4,7 +4,7 @@
 namespace Bom\library\src;
 
 
-class Formater
+class Formater implements FormaterInterface
 {
 
 }
